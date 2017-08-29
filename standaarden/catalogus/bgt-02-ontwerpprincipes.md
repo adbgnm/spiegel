@@ -14,7 +14,7 @@ De BGT beschrijft de geometrie van objecten voor een afbeeldingbereik van schaal
 
 De BGT bevat fysieke topografische objecten. Uitzonderingen hierop zijn het functioneel gebied Kering (zie paragraaf 3.4) en de (kunstmatig) gekozen vlakobjectbegrenzingen bij wegdelen, waterdelen en terreindelen.
 
-![Figuur 1: Overzicht BGT-objecten.](https://github.com/adbgnm/IMGeo2018-spiegel/standaarden/catalogus/media/fig-overzicht-bgt-objecten.png)
+![Figuur 1: Overzicht BGT-objecten.](media/fig-overzicht-bgt-objecten.png)
 
 ## Dekking
 
