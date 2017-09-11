@@ -51,4 +51,4 @@ Scheiding en Overbruggingsdeel).
 
 Macro-objecten zijn geen inhoud van de BGT; in het eigen beheersysteem kan men indien gewenst macro-objecten definiëren, die een clustering van BGT objecten bevatten. In het optionele deel van IMGeo kunnen deze worden uitgewisseld als Functioneel Gebied.
 
-![Figuur 2: Johannes Vermeer - De Geograaf (1669)](/standaarden/catalogus/media/0d4d70fa81057626d2824bb0cdc1aa4c.png)
+![Figuur 2: Johannes Vermeer - De Geograaf (1669)](https://raw.githubusercontent.com/adbgnm/spiegel/master/standaarden/catalogus/media/0d4d70fa81057626d2824bb0cdc1aa4c.png)
