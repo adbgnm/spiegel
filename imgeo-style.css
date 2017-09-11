@@ -7,4 +7,13 @@ max-width: 100%;
 
 table {
  border: 1px; 
+ cell-padding: 3px;
+ cell-spacing: 3px;
+}
+
+thead {
+ 
+ background-color: #eee;
+ 
+ 
 }
