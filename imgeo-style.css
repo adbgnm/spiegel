@@ -5,10 +5,9 @@ max-width: 100%;
 
 }
 
-table {
+table, td, tr {
  border: 1px solid black; 
- cell-padding: 3px;
- cell-spacing: 3px;
+ 
 }
 
 thead {
@@ -17,3 +16,5 @@ thead {
  
  
 }
+
+tr { 
