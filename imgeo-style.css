@@ -5,13 +5,14 @@ max-width: 100%;
 
 }
 
-table, td, tr {
+table, td, th {
  border-color: #eee; 
  
 }
 
 thead {
  
+ border-color: #eee;
  background-color: #eee;
  
  
