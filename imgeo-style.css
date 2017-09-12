@@ -6,6 +6,7 @@ max-width: 100%;
 }
 
 table, td, th {
+ 
  border-color: #eee; 
  
 }
@@ -17,5 +18,3 @@ thead {
  
  
 }
-
-tr { 
