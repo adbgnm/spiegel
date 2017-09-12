@@ -5,9 +5,19 @@ var respecConfig = {
   publishDate: "2017-09-11",
   editors: [
     {
-      name: "Geonovum",
-      url: "https://www.geonovum.nl",
+      name: "Arnoud de Boer",
+      company: "Geonovum",
+      companyURL: "http://www.geonovum.nl/",
+      mailto: "a.deboer@geonovum.nl",
+      note: ""    
     },
+    {
+      name: "Hans van Eekelen",
+     company: "Geonovum",
+    companyURL: "http://www.geonovum.nl/",
+    mailto: "h.vaneekelen@geonovum.nl",
+    note: "" 
+    }
   ],
   shortName: "bgt",
   pubDomain: "bgt",
