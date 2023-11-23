@@ -9,7 +9,7 @@ output:
 
 !![demographics map]('./Grondwatermonitoring.html')
 
-<section id="Grondwatermonitoring.Inleiding" w3-include-html='./Grondwatermonitoring.html'  data-include='./Grondwatermonitoring.html'></section>
+<div id="Grondwatermonitoring.Inleiding" w3-include-html='./Grondwatermonitoring.html'  data-include='./Grondwatermonitoring.html'></div>
 <!-- 3. Grondwatermonitoring; positie GMW binnen gegevenssystematiek BRO (niet normatief c.q. niet juridisch deel) -->
 
 <section id="Grondwatermonitoring" class='generic informative'>
