@@ -1,4 +1,12 @@
 <!-- 3. Grondwatermonitoring; positie GMW binnen gegevenssystematiek BRO (niet normatief c.q. niet juridisch deel) -->
+output:
+  html_document:
+    includes:
+      in_header: header.html
+      before_body: before.html
+      after_body: ./Grondwatermonitoring.html
+
+
 !![demographics map]('./Grondwatermonitoring.html')
 
 
