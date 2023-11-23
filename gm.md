@@ -1,4 +1,8 @@
-<!--- 3. Grondwatermonitoring; positie GMW binnen gegevenssystematiek BRO (niet normatief c.q. niet juridisch deel) -->
+<!-- 3. Grondwatermonitoring; positie GMW binnen gegevenssystematiek BRO (niet normatief c.q. niet juridisch deel) -->
+!![demographics map]('./Grondwatermonitoring.html')
+
+
+<!-- 3. Grondwatermonitoring; positie GMW binnen gegevenssystematiek BRO (niet normatief c.q. niet juridisch deel) -->
 
 <section id="Grondwatermonitoring" class='generic informative'>
 
